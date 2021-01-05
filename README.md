@@ -13,14 +13,14 @@ The importance of cohort analysis cannot be overemphasized. Among all the fascin
 ### Example 1. Retention Rates
 Both heatmap and line chart are good ways to spot behavioral differences in cohort analysis. I personally prefer to use the heatmap for behavior pattern analysis in specific cohort, and use the other for better comparison between cohorts.
 <p align="center">	
-	<img align="middle" width=700 src="images/Figure 1. Retention Heatmap.png">
+	<img align="middle" width=700 src="images/Figure 1. Retention Heatmap2.png">
 </p>
 <p align="center">
   <i>Figure 1. Retention Heatmap</i> 
 </p>
 
 <p align="center">	
-	<img align="middle" width=700 src="images/Figure 2. Retention Line Chart.png">
+	<img align="middle" width=700 src="images/Figure 2. Retention Line Chart2.png">
 </p>
 <p align="center">
   <i>Figure 2. Retention Line Chart</i> 
@@ -32,7 +32,7 @@ Note that in June 2011, the average spending appears to be negative, which may b
 As I just mentioned above and according to my experience in running a e-commerce platform, it is always important to call back or retain the active or say, old user on your platform, especially in the beginning stage of a starup. Once you have gained the trust of a group of advocates or core users, they would not only assist in the business metrics you try to accomplish but also bring their friends or relatives to your platform, which is often regarded as the effect of Word-of-Mouth. Here, I demonstrate both the retention rates and average spending on a monthly basis; however, in real case, we tend to perform the analysis on a shorter time intervals, for instance, 7-Day retention rate. Additionally, for a startup, your MVP(Most Viable Product) evolves over time. New features are added and removed. Observing individual groups over time is a starting point to understanding how these changes affect user behavior.
 
 <p align="center">	
-	<img align="middle" width=700 src="images/Figure 3. Average Spending Table.png">
+	<img align="middle" width=700 src="images/Figure 3. Average Spending Table2.png">
 </p>
 <p align="center">
   <i>Figure 3. Average Spending Table</i> 
