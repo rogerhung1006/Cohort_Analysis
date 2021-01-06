@@ -1,4 +1,10 @@
 # Cohort Analysis
+<p align="center">	
+	<img align="middle" width=700 src="images/cover.jpeg">
+</p>
+<p align="center" style="fontSize:20px">
+  <i>Photo by Carlos Muza on Unsplash</i> 
+</p>
 
 ## Introduction
 Cohort Analysis is a powerful tool that enables businesses to analyze user behavior pattern and uncover actionable insights and thus customized their products and marketing strategy toward different user segments. I find the technique so useful and powerful, and one can learn the complete code on DataCamp. In this project, I performed a cohort analysis with Python on 20% of the UCI Online Retail Dataset
